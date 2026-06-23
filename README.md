@@ -63,8 +63,6 @@ Passionate about continuous learning, improving system reliability, and building
 * ☁️ AWS hands-on labs & mini projects
 * 📦 GitHub-based learning repositories
 
-*(More projects coming as I build consistently 🚀)*
-
 ---
 
 # 📫 Connect With Me
