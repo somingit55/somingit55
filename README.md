@@ -2,7 +2,7 @@
 
 ## 💻 About Me
 
-Tech Support professional with experience in troubleshooting systems and resolving technical issues.
+Passionate about DevOps, Cloud, and Automation with a strong foundation in Technical Support and hands-on experience building real-world projects.
 
 ## 🚀 DevOps Journey
 
@@ -10,7 +10,7 @@ Currently transitioning into DevOps, focusing on automation, CI/CD, cloud, and m
 
 ## 📈 Goal
 
-Passionate about continuous learning, improving system reliability, and building efficient workflows.
+Automate, Secure, and Scale Infrastructure.
 
 ---
 
@@ -29,12 +29,14 @@ Passionate about continuous learning, improving system reliability, and building
 
 <p>
 <img src="https://skillicons.dev/icons?i=linux" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
 <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 <img src="https://skillicons.dev/icons?i=docker" height="50"/>
 <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
 <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
 <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
 <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
+<img src="https://skillicons.dev/icons?i=yaml" height="50"/>
 </p>
 
 ### 🗄 Databases & Monitoring
@@ -42,17 +44,24 @@ Passionate about continuous learning, improving system reliability, and building
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus" height="50"/>
 <img src="https://skillicons.dev/icons?i=grafana" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 </p>
 
 ---
 
 # 📚 Currently Learning
 
-* 🐍 Python for DevOps & Automation
-* ☁️ AWS Cloud Services (EC2, S3, IAM – hands-on)
-* 🐧 Linux, Git & GitHub
-* 📊 Monitoring & system health checks
-* ⚙️ Cloud-native & DevOps best practices
+* 🐍 Python for Automation & DevOps
+* ☁️ AWS Cloud Services (EC2, S3, IAM, VPC & Hands-on Projects)
+* 🐧 Linux (Shell Scripting & System Administration)
+* 🌿 Git & GitHub (Version Control & Collaboration)
+* 🐳 Docker (Containerization & Image Management)
+* ⚙️ Jenkins (CI/CD Pipeline Automation)
+* 🚀 GitHub Actions (Workflow Automation & CI/CD)
+* ☸️ Kubernetes (Container Orchestration & Scaling)
+* 📊 Monitoring & Observability (Prometheus & System Health Checks)
+* 🛠️ DevOps Tools & Best Practices
+* 🚧 Building Real-World DevOps Projects (AWS, Docker, Kubernetes & CI/CD)
 
 ---
 
