@@ -36,6 +36,7 @@ Automate, Secure, and Scale Infrastructure.
 <img src="https://skillicons.dev/icons?i=jenkins" height="50"/>
 <img src="https://skillicons.dev/icons?i=terraform" height="50"/>
 <img src="https://skillicons.dev/icons?i=ansible" height="50"/>
+<img src="https://skillicons.dev/icons?i=jira" height="50"/>
 <img src="https://skillicons.dev/icons?i=yaml" height="50"/>
 </p>
 
