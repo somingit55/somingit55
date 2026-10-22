@@ -59,7 +59,6 @@ Automate, Secure, and Scale Infrastructure.
 * 🚀 GitHub Actions (Workflow Automation & CI/CD)
 * ☸️ Kubernetes (Container Orchestration & Scaling)
 * 📊 Monitoring & Observability (Prometheus & System Health Checks)
-* 🛠️ DevOps Tools & Best Practices
 * 🚧 Building Real-World DevOps Projects (AWS, Docker, Kubernetes & CI/CD)
 
 ---
@@ -67,7 +66,6 @@ Automate, Secure, and Scale Infrastructure.
 # 📂 Projects & Practice
 
 * 🔄 Python automation scripts
-* ⚙️ System monitoring using `psutil`
 * ☁️ AWS hands-on labs & mini projects
 * 📦 GitHub-based learning repositories
 
